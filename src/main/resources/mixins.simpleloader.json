@@ -1,0 +1,6 @@
+{
+  "required": true,
+  "plugin": "simple.loader.SimpleLoader",
+  "compatibilityLevel": "JAVA_21",
+  "injectors": {"defaultRequire": 1}
+}
